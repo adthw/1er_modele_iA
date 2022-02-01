@@ -1,5 +1,7 @@
 # 1er_modele_iA
-Premiermodèle iA formation (sans librairies et avec Sklearn)
+Premiermodèle iA formation (sans les bibliothèques puis avec Sklearn)
+
+[**Lien vers le notebook**](https://github.com/adthw/1er_modele_iA/blob/main/Premier-modele-iA.ipynb)
 
 ## Contexte du projet
 
